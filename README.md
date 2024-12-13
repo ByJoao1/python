@@ -1,2 +1,2 @@
 # python
-codigos da aula 
+## Isso é oque aprendemos em PEST( progamação estruturada)
